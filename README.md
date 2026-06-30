@@ -103,7 +103,7 @@ AI outfit analyzer that scores outfits and suggests fashion improvements.
 ### 🏆 Achievements & Certifications
 
 - 🧠 Active problem solver on [LeetCode](https://leetcode.com/u/Sparshx22/)
-- 📜 *(Add certifications, hackathon wins, or course completions here)*
+- 📜 **
 
 ---
 
