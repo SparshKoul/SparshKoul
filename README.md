@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,60:2c5364,100:0f2027&height=220&section=header&text=Sparsh%20Koul&fontSize=60&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20Builder&descAlignY=62&descColor=67e8f9&animation=twinkling"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sparsh%20Koul&fontSize=60&fontColor=fff&fontAlignY=45&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20Builder&descAlignY=68&descColor=67e8f9&animation=twinkling"/>
 <!-- BADGES -->
 <p>
   <a href="https://github.com/SparshKoul">
