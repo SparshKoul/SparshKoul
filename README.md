@@ -1,45 +1,43 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sparsh%20Koul&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1500,100:0a0a0a&height=200&section=header&text=Sparsh%20Koul&fontSize=70&fontColor=f5c518&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20Learner%20%E2%80%A2%20AI%20Builder&descAlignY=58&descColor=d4a017&animation=fadeIn"/>
 
 <!-- STATUS BADGES -->
 <p>
   <a href="https://github.com/SparshKoul">
-    <img src="https://img.shields.io/github/followers/SparshKoul?label=Followers&style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed"/>
+    <img src="https://img.shields.io/github/followers/SparshKoul?label=Followers&style=for-the-badge&logo=github&labelColor=0a0a0a&color=d4a017"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SparshKoul&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SparshKoul&style=for-the-badge&color=d4a017&labelColor=0a0a0a&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=for-the-badge&logo=briefcase&labelColor=0d1117&color=059669"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-d4a017?style=for-the-badge&logo=briefcase&labelColor=0a0a0a"/>
 </p>
 
 <!-- QUICK LINKS -->
 <p>
   <a href="https://sparshkoul.live">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-sparshkoul.live-7c3aed?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-sparshkoul.live-d4a017?style=flat-square&labelColor=0a0a0a"/>
   </a>
   &nbsp;
   <a href="mailto:sparshkoul6@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-sparshkoul6@gmail.com-7c3aed?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/📧_Email-sparshkoul6@gmail.com-d4a017?style=flat-square&labelColor=0a0a0a"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sparsh-koul-05815b325/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-d4a017?style=flat-square&logo=linkedin&labelColor=0a0a0a"/>
   </a>
 </p>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=☕+Java+Developer+by+choice;🌐+Building+Full+Stack+apps;🧠+DSA+problem+solver;🤖+Crafting+AI-powered+products;📚+Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=600&lines=☕+Java+Developer+by+choice;🌐+Building+Full+Stack+apps;🧠+DSA+problem+solver;🤖+Crafting+AI-powered+products;📚+Always+learning%2C+always+shipping" />
 
 </div>
 
 ---
 
 <!-- ABOUT ME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
-
-<h2>⚡ About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"/> About Me</h2>
 
 ```java
 /**
@@ -132,10 +130,10 @@ public class SparshKoul extends Developer {
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
       <a href="https://genxclothing.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-d4a017?style=for-the-badge"/>
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/💻_Source_Code-0d1117?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/💻_Source_Code-0a0a0a?style=for-the-badge&logo=github"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -147,10 +145,10 @@ public class SparshKoul extends Developer {
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
       <a href="http://raterightfood.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-d4a017?style=for-the-badge"/>
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/💻_Source_Code-0d1117?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/💻_Source_Code-0a0a0a?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
@@ -163,18 +161,18 @@ public class SparshKoul extends Developer {
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
       <a href="https://sparshkoul.live">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-d4a017?style=for-the-badge"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>👕 FitCheck AI <img src="https://img.shields.io/badge/In_Progress-f59e0b?style=flat-square"/></h3>
+      <h3>👕 FitCheck AI <img src="https://img.shields.io/badge/In_Progress-d4a017?style=flat-square"/></h3>
       <p>AI outfit analyzer that scores your look, identifies clothing items, and gives personalized style recommendations based on occasion.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
       </p>
       <a href="https://github.com/SparshKoul/fitcheck">
-        <img src="https://img.shields.io/badge/💻_Follow_Progress-0d1117?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/💻_Follow_Progress-0a0a0a?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
@@ -187,14 +185,14 @@ public class SparshKoul extends Developer {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SparshKoul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKoul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SparshKoul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=d4a017&icon_color=d4a017&text_color=ffffff&ring_color=d4a017"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKoul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=d4a017&text_color=ffffff"/>
 
-<img src="https://streak-stats.demolab.com?user=SparshKoul&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img src="https://streak-stats.demolab.com?user=SparshKoul&theme=tokyonight&hide_border=true&background=0a0a0a&ring=d4a017&fire=f5c518&currStreakLabel=d4a017&sideLabels=d4a017"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SparshKoul&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SparshKoul&bg_color=0a0a0a&color=d4a017&line=f5c518&point=ffffff&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SparshKoul&theme=algolia&no-frame=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SparshKoul&theme=gruvbox&no-frame=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -205,10 +203,10 @@ public class SparshKoul extends Developer {
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System_Design-7c3aed?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-d4a017?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Advanced_DSA-0078D4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advanced_DSA-0078D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -219,25 +217,25 @@ public class SparshKoul extends Developer {
 <div align="center">
 
 <a href="https://github.com/SparshKoul">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=d4a017"/>
 </a>
 <a href="https://www.linkedin.com/in/sparsh-koul-05815b325/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=d4a017"/>
 </a>
 <a href="https://leetcode.com/u/Sparshx22/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=d4a017"/>
 </a>
 <a href="https://sparshkoul.live">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=d4a017"/>
 </a>
 <a href="mailto:sparshkoul6@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=d4a017"/>
 </a>
 <a href="https://x.com/Sparshkoulll">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=d4a017"/>
 </a>
 <a href="https://www.instagram.com/sparshkoulll">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=d4a017"/>
 </a>
 
 </div>
@@ -256,7 +254,7 @@ public class SparshKoul extends Developer {
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1500,100:0a0a0a&height=120&section=footer"/>
 
 <p><i>"First, solve the problem. Then, write the code."</i></p>
 
