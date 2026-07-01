@@ -1,282 +1,165 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:000000&height=200&text=SPARSH%20KOUL&fontSize=62&fontColor=00ffff&fontAlignY=45&fontStyle=bold&desc=JAVA%20DEV%20%2F%2F%20FULL%20STACK%20%2F%2F%20AI%20BUILDER&descAlignY=68&descColor=ff2d78&animation=blinking&stroke=00ffff&strokeWidth=1"/>
-
-<br/>
-
-<!-- SYSTEM STATUS BADGES -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffff?style=flat-square&labelColor=000000&logo=circle&logoColor=00ffff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MODE-OPEN_TO_INTERNSHIPS-ff2d78?style=flat-square&labelColor=000000"/>
-&nbsp;
-<a href="https://github.com/SparshKoul">
-<img src="https://img.shields.io/github/followers/SparshKoul?label=FOLLOWERS&style=flat-square&labelColor=000000&color=00ffff"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SparshKoul&style=flat-square&color=ff2d78&labelColor=000000&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- QUICK ACCESS -->
-<a href="https://sparshkoul.live"><img src="https://img.shields.io/badge/[_PORTFOLIO_]-000000?style=flat-square&logo=googlechrome&logoColor=00ffff&color=000000"/></a>
-&nbsp;
-<a href="mailto:sparshkoul6@gmail.com"><img src="https://img.shields.io/badge/[_EMAIL_]-000000?style=flat-square&logo=gmail&logoColor=ff2d78&color=000000"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sparsh-koul-05815b325/"><img src="https://img.shields.io/badge/[_LINKEDIN_]-000000?style=flat-square&logo=linkedin&logoColor=00ffff&color=000000"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/[_RESUME_]-000000?style=flat-square&logo=readme&logoColor=ff2d78&color=000000"/></a>
-
-<br/><br/>
-
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=_%20initializing+SparshKoul.exe+...;_%20Java+Developer+%2F%2F+loading+...;_%20Full+Stack+skills+%2F%2F+active;_%20DSA+mode+%2F%2F+engaged;_%20AI+projects+%2F%2F+building+...;_%20always+learning+%2F%2F+never+stopping"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:000000&height=180&section=header&text=Hi%20👋%2C%20I'm%20Sparsh%20Koul&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Java%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20AI%20Builder&descAlignY=68&descColor=00ffff&animation=fadeIn"/>
 
 </div>
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    // SYSTEM PROFILE //                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```java
-/**
- * ┌─────────────────────────────────────────┐
- * │  UNIT     : SparshKoul                  │
- * │  CLASS    : CS Engineering Student      │
- * │  VERSION  : 2025.1                      │
- * │  STATUS   : Active // Building          │
- * └─────────────────────────────────────────┘
- */
-public class SparshKoul extends Developer {
-
-    String[] currentlyBuilding = {
-        "FitCheck AI  →  AI-powered outfit analyzer",
-        "Full Stack apps  →  React + Node.js + Spring Boot"
-    };
-
-    String[] currentlyLearning = {
-        "Spring Boot", "System Design", "REST APIs",
-        "Advanced DSA", "AI Integration"
-    };
-
-    String[] coreStack = {
-        "Java", "JavaScript", "TypeScript",
-        "React", "Node.js", "Express",
-        "MongoDB", "MySQL", "Firebase"
-    };
-
-    String directive = "Ship meaningful products. Solve real problems.";
-
-    // [OUTPUT] ──────────────────────────────────────────────
-    String execute() { return "Keep learning. Keep building."; }
-}
-```
+<h3 align="center">A passionate Full Stack Developer building AI-powered products</h3>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    // TECH STACK //                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+- 🔭 &nbsp; Currently building **FitCheck AI** — an AI outfit analyzer
+- 🌱 &nbsp; Currently learning **Spring Boot, System Design & Advanced DSA**
+- 👨‍💻 &nbsp; All my projects are available at **[sparshkoul.live](https://sparshkoul.live)**
+- 💬 &nbsp; Ask me about **Java, React, Node.js, MongoDB**
+- 📫 &nbsp; How to reach me — **sparshkoul6@gmail.com**
+- 📄 &nbsp; Know about my experiences — **[My Resume](#)**
+- ⚡ &nbsp; Fun fact — I think in Java and dream in React
+
+<br/>
+
+<h3>🌐 Connect with me</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/sparsh-koul-05815b325/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SparshKoul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sparshx22/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Sparshkoulll" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sparshkoulll" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+</p>
+
+<br/>
+
+<h3>🛠️ Languages and Tools</h3>
+
+<p>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
+  </a>
+  &nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/>
+  </a>
+</p>
+
+<br/>
+
+<h3>🚀 Featured Projects</h3>
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| 🛍️ **GenX Clothing** | Premium fashion e-commerce platform | React · Node.js · MongoDB | [Live](https://genxclothing.vercel.app/) · [Repo](#) |
+| 🥗 **NutriRate AI** | AI-powered meal nutrition analyzer | React · AI/ML · Node.js | [Live](http://raterightfood.vercel.app/) · [Repo](#) |
+| 🌐 **Portfolio** | Personal dev portfolio | React · Tailwind CSS | [Live](https://sparshkoul.live) |
+| 👕 **FitCheck AI** | AI outfit scorer *(In Progress)* | React · AI/ML | [Repo](https://github.com/SparshKoul/fitcheck) |
+
+<br/>
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SparshKoul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff2d78&text_color=ffffff"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKoul&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SparshKoul&hide_border=true&background=0d1117&ring=00ffff&fire=ff2d78&currStreakLabel=00ffff&sideLabels=ff2d78&dates=888888"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SparshKoul&bg_color=0d1117&color=00ffff&line=ff2d78&point=ffffff&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SparshKoul&theme=matrix&no-frame=true&margin-w=6&column=7"/>
+</p>
+
+<br/>
+
+<h3>🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SparshKoul/SparshKoul/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<br/>
 
 <div align="center">
-
-**`// LANGUAGES`**
-
-![Java](https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=00ffff)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=00ffff)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00ffff)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00ffff)
-
-**`// FRONTEND`**
-
-![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=ff2d78)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ff2d78)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ff2d78)
-![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=ff2d78)
-
-**`// BACKEND & DATABASE`**
-
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=node.js&logoColor=00ffff)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=express&logoColor=00ffff)
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-000000?style=flat-square&logo=springboot&logoColor=00ffff)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=00ffff)
-![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=00ffff)
-![Firebase](https://img.shields.io/badge/FIREBASE-000000?style=flat-square&logo=firebase&logoColor=00ffff)
-
-**`// TOOLS`**
-
-![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=ff2d78)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=ff2d78)
-![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman&logoColor=ff2d78)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=ff2d78)
-![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=ff2d78)
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=flat-square&logo=intellij-idea&logoColor=ff2d78)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:000000&height=100&section=footer"/>
+<sub><i>"First, solve the problem. Then, write the code."</i></sub>
 </div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                  // DEPLOYED PROJECTS //                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <b><code>[ PROJECT_01 ]</code> 🛍️ GenX Clothing</b>
-      <br/><br/>
-      <p>Premium fashion e-commerce platform. Browse collections, manage a cart, seamless shopping experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=node.js&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=00ffff"/>
-      </p>
-      <a href="https://genxclothing.vercel.app/">
-        <img src="https://img.shields.io/badge/▶_LIVE-000000?style=flat-square&logo=vercel&logoColor=00ffff"/>
-      </a>
-      &nbsp;
-      <a href="#">
-        <img src="https://img.shields.io/badge/⌥_SOURCE-000000?style=flat-square&logo=github&logoColor=ff2d78"/>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <b><code>[ PROJECT_02 ]</code> 🥗 NutriRate AI</b>
-      <br/><br/>
-      <p>AI-powered food analyzer. Upload a meal, get instant nutrition score and health insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/AI/ML-000000?style=flat-square&logo=openai&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=node.js&logoColor=00ffff"/>
-      </p>
-      <a href="http://raterightfood.vercel.app/">
-        <img src="https://img.shields.io/badge/▶_LIVE-000000?style=flat-square&logo=vercel&logoColor=00ffff"/>
-      </a>
-      &nbsp;
-      <a href="#">
-        <img src="https://img.shields.io/badge/⌥_SOURCE-000000?style=flat-square&logo=github&logoColor=ff2d78"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <b><code>[ PROJECT_03 ]</code> 🌐 Portfolio</b>
-      <br/><br/>
-      <p>Personal dev portfolio. Projects, skills, and journey — built for performance and clean aesthetics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=00ffff"/>
-      </p>
-      <a href="https://sparshkoul.live">
-        <img src="https://img.shields.io/badge/▶_LIVE-000000?style=flat-square&logo=vercel&logoColor=00ffff"/>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <b><code>[ PROJECT_04 ]</code> 👕 FitCheck AI &nbsp;<img src="https://img.shields.io/badge/IN_PROGRESS-ff2d78?style=flat-square&labelColor=000000"/></b>
-      <br/><br/>
-      <p>AI outfit scorer. Identifies clothing items, rates your look, gives style recommendations by occasion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=00ffff"/>
-        <img src="https://img.shields.io/badge/AI/ML-000000?style=flat-square&logo=openai&logoColor=00ffff"/>
-      </p>
-      <a href="https://github.com/SparshKoul/fitcheck">
-        <img src="https://img.shields.io/badge/⌥_FOLLOW-000000?style=flat-square&logo=github&logoColor=ff2d78"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   // SYSTEM METRICS //                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SparshKoul&show_icons=true&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=ff2d78&text_color=ffffff&ring_color=00ffff"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKoul&layout=compact&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SparshKoul&hide_border=true&background=000000&ring=00ffff&fire=ff2d78&currStreakLabel=00ffff&sideLabels=ff2d78&dates=888888&stroke=00ffff"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SparshKoul&bg_color=000000&color=00ffff&line=ff2d78&point=ffffff&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SparshKoul&theme=matrix&no-frame=true&margin-w=6&column=7"/>
-
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                // CONTRIBUTION MATRIX //                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/SparshKoul/SparshKoul/output/github-contribution-grid-snake-dark.svg"/>
-
-<br/><br/>
-
-<!-- SOCIALS -->
-<a href="https://github.com/SparshKoul">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sparsh-koul-05815b325/">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Sparshx22/">
-  <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff2d78"/>
-</a>
-&nbsp;
-<a href="https://sparshkoul.live">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00ffff"/>
-</a>
-&nbsp;
-<a href="mailto:sparshkoul6@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff2d78"/>
-</a>
-&nbsp;
-<a href="https://x.com/Sparshkoulll">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/sparshkoulll">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff2d78"/>
-</a>
-
-</div>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > "First, solve the problem. Then, write the code."        ║
-║  > SparshKoul.exe  //  running since 2024  //  v2025.1      ║
-╚══════════════════════════════════════════════════════════════╝
-```
