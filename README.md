@@ -250,7 +250,7 @@ public class SparshKoul extends Developer {
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Sparshx22/">
+<a href="https://leetcode.com/u/sparshkoul/">
   <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ff2d78"/>
 </a>
 &nbsp;
