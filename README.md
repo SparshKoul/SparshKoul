@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:000000&height=200&text=SPARSH%20KOUL&fontSize=62&fontColor=00ffff&fontAlignY=45&fontStyle=italic&desc=JAVA%20DEV%20%2F%2F%20FULL%20STACK%20%2F%2F%20AI%20BUILDER&descAlignY=68&descColor=ff2d78&stroke=00ffff&strokeWidth=1"/>
+<img width="100%" src="https://raw.githubusercontent.com/SparshKoul/SparshKoul/main/assets/name-banner.svg"/>
 
 <br/>
 
