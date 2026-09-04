@@ -95,89 +95,89 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
   <tr>
     <td width="50%" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/WYD_📹-000000?style=for-the-badge&logo=webrtc&logoColor=00ffff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff2d78?style=flat-square&logo=circle&logoColor=white" />
-      <br/><br/>
-      <p align="left">
-        <b>Video Chatting Platform for College Students</b><br/>
-        A real-time video chat &amp; social platform designed specifically for college students to connect, hang out, and collaborate seamlessly.
+      <h3>📹 WYD</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff2d78?style=flat-square&logo=circle&logoColor=white" />
+      </p>
+      <p align="center">
+        Real-time video chatting &amp; social platform for college students.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark" />
       </p>
+      <p align="center">
+        <a href="https://github.com/SparshKoul">
+          <img src="https://img.shields.io/badge/⚡_Building_Phase-000000?style=for-the-badge&logo=github&logoColor=ff2d78" />
+        </a>
+      </p>
       <br/>
-      <a href="https://github.com/SparshKoul">
-        <img src="https://img.shields.io/badge/⚡_IN_BUILDING_PHASE-000000?style=for-the-badge&logo=github&logoColor=ff2d78" />
-      </a>
-      <br/><br/>
     </td>
     <td width="50%" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/GenX_Clothing_🛍️-000000?style=for-the-badge&logo=react&logoColor=00ffff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-LIVE_&_DEPLOYED-2ea44f?style=flat-square&logo=circle&logoColor=white" />
-      <br/><br/>
-      <p align="left">
-        <b>Next-Gen Fashion E-Commerce Platform</b><br/>
-        Full-featured online fashion store featuring dynamic product catalog, interactive cart management, and seamless checkout experience.
+      <h3>🛍️ GenX Clothing</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-LIVE_&_DEPLOYED-2ea44f?style=flat-square&logo=circle&logoColor=white" />
+      </p>
+      <p align="center">
+        Next-Gen fashion e-commerce store with dynamic cart &amp; checkout.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,vercel&theme=dark" />
       </p>
+      <p align="center">
+        <a href="https://genxclothing.vercel.app/">
+          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-0079ff?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/SparshKoul/E-commerce">
+          <img src="https://img.shields.io/badge/⌥_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
       <br/>
-      <a href="https://genxclothing.vercel.app/">
-        <img src="https://img.shields.io/badge/▶_LIVE_DEMO-0079ff?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/SparshKoul/E-commerce">
-        <img src="https://img.shields.io/badge/⌥_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/NutriRate_AI_🥗-000000?style=for-the-badge&logo=googlegemini&logoColor=00ffff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-LIVE_&_DEPLOYED-2ea44f?style=flat-square&logo=circle&logoColor=white" />
-      <br/><br/>
-      <p align="left">
-        <b>AI Food &amp; Macro Analyzer</b><br/>
-        Smart nutrition scanner providing instant AI food scoring, detailed macro breakdowns, and personalized dietary advice.
+      <h3>🥗 NutriRate AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-LIVE_&_DEPLOYED-2ea44f?style=flat-square&logo=circle&logoColor=white" />
+      </p>
+      <p align="center">
+        AI meal scanner providing instant nutrition scoring &amp; macro breakdowns.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vercel&theme=dark" />
       </p>
+      <p align="center">
+        <a href="http://raterightfood.vercel.app/">
+          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-0079ff?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/SparshKoul/RateRight">
+          <img src="https://img.shields.io/badge/⌥_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
       <br/>
-      <a href="http://raterightfood.vercel.app/">
-        <img src="https://img.shields.io/badge/▶_LIVE_DEMO-0079ff?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/SparshKoul/RateRight">
-        <img src="https://img.shields.io/badge/⌥_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
     </td>
     <td width="50%" valign="top" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/FitCheck_AI_👕-000000?style=for-the-badge&logo=groq&logoColor=00ffff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff2d78?style=flat-square&logo=circle&logoColor=white" />
-      <br/><br/>
-      <p align="left">
-        <b>AI Outfit Scorer &amp; Style Advisor</b><br/>
-        Intelligent outfit analyzer evaluating clothing items, color coordination, and giving occasion-based style recommendations.
+      <h3>👕 FitCheck AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff2d78?style=flat-square&logo=circle&logoColor=white" />
+      </p>
+      <p align="center">
+        AI outfit scorer evaluating clothing items &amp; style recommendations.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,vite&theme=dark" />
       </p>
+      <p align="center">
+        <a href="https://github.com/SparshKoul/fitcheck">
+          <img src="https://img.shields.io/badge/⌥_FOLLOW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
       <br/>
-      <a href="https://github.com/SparshKoul/fitcheck">
-        <img src="https://img.shields.io/badge/⌥_FOLLOW_PROGRESS-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
     </td>
   </tr>
 </table>
@@ -195,8 +195,8 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=SparshKoul&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=SparshKoul&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SparshKoul&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SparshKoul&theme=github_dark" />
 </div>
 
 <br/>
