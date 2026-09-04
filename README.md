@@ -24,7 +24,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/sparsh-koul-05815b325/"><img src="https://img.shields.io/badge/[_LINKEDIN_]-000000?style=flat-square&logo=linkedin&logoColor=00ffff&color=000000"/></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/[_RESUME_]-000000?style=flat-square&logo=readme&logoColor=ff2d78&color=000000"/></a>
+<a href="https://leetcode.com/u/sparshkoul/"><img src="https://img.shields.io/badge/[_LEETCODE_]-000000?style=flat-square&logo=leetcode&logoColor=ff2d78&color=000000"/></a>
 
 <br/><br/>
 
@@ -144,7 +144,7 @@ public class SparshKoul extends Developer {
         <img src="https://img.shields.io/badge/▶_LIVE-000000?style=flat-square&logo=vercel&logoColor=00ffff"/>
       </a>
       &nbsp;
-      <a href="#">
+      <a href="https://github.com/SparshKoul/E-commerce">
         <img src="https://img.shields.io/badge/⌥_SOURCE-000000?style=flat-square&logo=github&logoColor=ff2d78"/>
       </a>
       <br/><br/>
@@ -163,7 +163,7 @@ public class SparshKoul extends Developer {
         <img src="https://img.shields.io/badge/▶_LIVE-000000?style=flat-square&logo=vercel&logoColor=00ffff"/>
       </a>
       &nbsp;
-      <a href="#">
+      <a href="https://github.com/SparshKoul/RateRight">
         <img src="https://img.shields.io/badge/⌥_SOURCE-000000?style=flat-square&logo=github&logoColor=ff2d78"/>
       </a>
       <br/><br/>
