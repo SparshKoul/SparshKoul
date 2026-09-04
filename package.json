@@ -1,0 +1,15 @@
+{
+  "name": "sparshkoul",
+  "version": "1.0.0",
+  "description": "Sparsh Koul's GitHub profile SVG builder",
+  "main": "build-svg.js",
+  "type": "module",
+  "scripts": {
+    "build": "node build-svg.js"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "got": "^13.0.0",
+    "simple-icons": "^16.29.0"
+  }
+}

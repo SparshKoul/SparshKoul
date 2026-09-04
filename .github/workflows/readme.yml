@@ -1,0 +1,31 @@
+name: Update README SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: npm install
+
+      - name: Generate SVG
+        run: node build-svg.js
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Sparsh Koul
+          author_email: sparshkoul@gmail.com
+          message: "Auto update README SVG profile"
+          add: "chat.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
