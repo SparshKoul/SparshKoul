@@ -22,6 +22,11 @@
     <a href="mailto:sparshkoul6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://x.com/Sparshkoulll"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   </p>
+
+  <br/>
+
+  <!-- Dynamic Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0079FF&center=true&vCenter=true&width=550&lines=Full+Stack+%2B+AI+Developer;Building+WYD+(Video+Chat+for+College);Building+FitCheck+AI;Always+learning+%2F%2F+Never+stopping" />
 </div>
 
 <br/>
@@ -181,7 +186,13 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
 
 ---
 
-### 📊 GitHub System Metrics
+### 📊 GitHub & Coding Metrics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SparshKoul&theme=darkhub&no-frame=true&margin-w=4&column=6" />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SparshKoul&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
