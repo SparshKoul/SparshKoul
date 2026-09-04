@@ -26,7 +26,7 @@
   <br/>
 
   <!-- Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0079FF&center=true&vCenter=true&width=550&lines=Full+Stack+%2B+AI+Developer;Building+WYD+(Video+Chat+for+College);Deployed+FitCheck+AI;Always+learning+%2F%2F+Never+stopping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=0079FF&center=true&vCenter=true&width=550&lines=Full+Stack+%2B+AI+Developer;Building+WYD+(wydlive.app);Deployed+FitCheck+AI;Always+learning+%2F%2F+Never+stopping" />
 </div>
 
 <br/>
@@ -40,9 +40,9 @@ Name: Sparsh Koul
 Role: Full-Stack & AI Developer
 Education: Computer Science Student @ Chitkara University (Class of 2028)
 Currently Building: 
-  - WYD 📹  →  Video chatting platform specifically designed for college students
+  - WYD 📹  →  Video chatting platform for college students (https://wydlive.app)
   - Full-Stack Web Applications  →  React + Node.js + Spring Boot
-Deployed Projects: FitCheck AI 👕, GenX Clothing 🛍️, NutriRate AI 🥗
+Deployed Projects: WYD 📹, FitCheck AI 👕, GenX Clothing 🛍️, NutriRate AI 🥗
 Currently Learning: System Design, WebRTC, Advanced DSA, Spring Boot, AI Integrations
 Core Focus: Building scalable real-time web applications & integrating AI/ML workflows
 ```
@@ -97,7 +97,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
       <br/>
       <h3>📹 WYD</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ff2d78?style=flat-square&logo=circle&logoColor=white" />
+        <img src="https://img.shields.io/badge/STATUS-BUILDING_&_DEPLOYED-2ea44f?style=flat-square&logo=circle&logoColor=white" />
       </p>
       <p align="center">
         Real-time video chatting &amp; social platform for college students.
@@ -106,6 +106,10 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark" />
       </p>
       <p align="center">
+        <a href="https://wydlive.app">
+          <img src="https://img.shields.io/badge/▶_LIVE-0079ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+        &nbsp;
         <a href="https://github.com/SparshKoul">
           <img src="https://img.shields.io/badge/⚡_Building_Phase-000000?style=for-the-badge&logo=github&logoColor=ff2d78" />
         </a>
