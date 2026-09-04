@@ -30,17 +30,23 @@ function getIconPath(key) {
 }
 
 function generateSkillsSVG() {
+  // Ordered strictly by categories: Languages -> Backend -> Frontend -> Databases -> Tools -> OS
   const allSkills = [
+    // Languages
     { key: 'custom:java', name: 'Java', color: '#F89820' },
-    { key: 'siJavascript', name: 'JavaScript', color: '#F7DF1E' },
-    { key: 'siPython', name: 'Python', color: '#3776AB' },
-    { key: 'siCplusplus', name: 'C++', color: '#00599C' },
     { key: 'custom:sql', name: 'SQL', color: '#336791' },
+    { key: 'siCplusplus', name: 'C++', color: '#00599C' },
+    { key: 'siPython', name: 'Python', color: '#3776AB' },
+    { key: 'siJavascript', name: 'JavaScript', color: '#F7DF1E' },
+    
+    // Backend
     { key: 'siNodedotjs', name: 'Node.js', color: '#5FA04E' },
     { key: 'siExpress', name: 'Express.js', color: '#ffffff' },
     { key: 'custom:rest', name: 'REST APIs', color: '#009688' },
     { key: 'custom:jwt', name: 'JWT', color: '#D63AFF' },
     { key: 'custom:oauth', name: 'OAuth 2.0', color: '#EA4335' },
+    
+    // Frontend
     { key: 'siReact', name: 'React.js', color: '#61DAFB' },
     { key: 'siNextdotjs', name: 'Next.js', color: '#ffffff' },
     { key: 'siTailwindcss', name: 'Tailwind CSS', color: '#06B6D4' },
@@ -48,9 +54,13 @@ function generateSkillsSVG() {
     { key: 'siFramer', name: 'Framer Motion', color: '#0055FF' },
     { key: 'siThreedotjs', name: 'Three.js', color: '#ffffff' },
     { key: 'siWebgl', name: 'WebGL', color: '#990000' },
+    
+    // Databases
     { key: 'siPostgresql', name: 'PostgreSQL', color: '#4169E1' },
     { key: 'siMysql', name: 'MySQL', color: '#4479A1' },
     { key: 'siMongodb', name: 'MongoDB', color: '#47A248' },
+    
+    // Tools & Platforms
     { key: 'siRazorpay', name: 'Razorpay', color: '#008CFF' },
     { key: 'siSupabase', name: 'Supabase', color: '#3FCF8E' },
     { key: 'custom:groq', name: 'Groq', color: '#F55036' },
@@ -58,6 +68,8 @@ function generateSkillsSVG() {
     { key: 'siGit', name: 'Git', color: '#F03C2E' },
     { key: 'siGithub', name: 'GitHub', color: '#ffffff' },
     { key: 'siVercel', name: 'Vercel', color: '#ffffff' },
+    
+    // OS
     { key: 'siLinux', name: 'Linux', color: '#FCC624' },
     { key: 'custom:windows', name: 'Windows', color: '#0078D6' },
   ];
@@ -112,7 +124,7 @@ async function run() {
     );
 
   fs.writeFileSync('chat.svg', output, 'utf8');
-  console.log(`Successfully updated chat.svg with extra spacing for ${todayDay}`);
+  console.log(`Successfully updated chat.svg with categorized skills order for ${todayDay}`);
 }
 
 run();
