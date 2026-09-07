@@ -129,7 +129,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
         <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,vite&theme=dark" />
       </p>
       <p align="center">
-        <a href="http://fitcheck.vercel.app/">
+        <a href="http://fitcheckkk.vercel.app/">
           <img src="https://img.shields.io/badge/▶_LIVE-0079ff?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         &nbsp;
