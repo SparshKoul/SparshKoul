@@ -55,12 +55,12 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
 
 **`// LANGUAGES`**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,postgres,cpp,c,py,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,postgres,cpp,c,py,js,html,css&theme=dark" />
 </p>
 
 **`// BACKEND`**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 **`// FRONTEND`**  
@@ -70,7 +70,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
 
 **`// DATABASES`**  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" />
 </p>
 
 **`// TOOLS & PLATFORMS`**  
