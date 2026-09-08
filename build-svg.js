@@ -116,7 +116,7 @@ async function run() {
 
   // Replace weekday placeholders & adjust bubble width
   let output = template
-    .replace(/Have a great \w+!/g, `Have a great ${todayDay}!`)
+    .replace(/Have a great \w+!/g, `Have a great ${Day}!`)
     .replace(/\{todayDay\}/g, todayDay)
     .replace(
       /<rect width="\d+" height="42" rx="18" class="bubble" id="msg-6-bubble" \/>/,
