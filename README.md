@@ -65,7 +65,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
 
 **`// FRONTEND`**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,cssreact,tailwind,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
 </p>
 
 **`// DATABASES`**  
