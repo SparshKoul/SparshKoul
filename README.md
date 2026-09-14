@@ -41,7 +41,7 @@ Role: Full-Stack & AI Developer
 Education: Computer Science Student @ Chitkara University (Class of 2028)
 Currently Building: 
   - WYD 📹  →  Video chatting platform for college students (https://wydlive.app)
-  - Full-Stack Web Applications  →  React + Node.js + Spring Boot
+  - Full-Stack Web Applications  →  React + Node.js + SupaBase
 Deployed Projects: WYD 📹, FitCheck AI 👕, GenX Clothing 🛍️, NutriRate AI 🥗
 Currently Learning: System Design, WebRTC, Advanced DSA, Spring Boot, AI Integrations
 Core Focus: Building scalable real-time web applications & integrating AI/ML workflows
