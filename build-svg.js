@@ -103,7 +103,10 @@ function generateSkillsSVG() {
 }
 
 async function run() {
-  const todayDay = format(new Date(), 'EEEE');
+  const todayDay = new Intl.DateTimeFormat('en-US', {
+    weekday: 'long',
+    timeZone: 'Asia/Kolkata',
+  }).format(new Date());
   const bubbleWidth = dayBubbleWidths[todayDay] || 280;
 
   let template = fs.readFileSync('template.svg', 'utf8');
@@ -116,7 +119,7 @@ async function run() {
 
   // Replace weekday placeholders & adjust bubble width
   let output = template
-    .replace(/Have a great \w+!/g, `Have a great ${Day}!`)
+    .replace(/Have a great (\w+|\{todayDay\})!/g, `Have a great ${todayDay}!`)
     .replace(/\{todayDay\}/g, todayDay)
     .replace(
       /<rect width="\d+" height="42" rx="18" class="bubble" id="msg-6-bubble" \/>/,
