@@ -103,7 +103,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
         Real-time video chatting &amp; social platform for college students.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,tailwind,vite&theme=dark" />
       </p>
       <p align="center">
         <a href="https://wydlive.app">
