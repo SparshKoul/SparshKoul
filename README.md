@@ -151,7 +151,7 @@ Core Focus: Building scalable real-time web applications & integrating AI/ML wor
         Next-Gen fashion e-commerce store with dynamic cart &amp; checkout.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,vercel&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,supabase,express,vercel&theme=dark" />
       </p>
       <p align="center">
         <a href="https://genxclothing.vercel.app/">
