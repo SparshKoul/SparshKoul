@@ -9,7 +9,7 @@
   <!-- Status & Quick Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-2ea44f?style=for-the-badge&logo=circle&logoColor=white" />
-    <img src="https://img.shields.io/badge/LOCATION-KASHMIR,_INDIA-0079ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-CHANDIGARH,_INDIA-0079ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
     <img src="https://komarev.com/ghpvc/?username=SparshKoul&style=for-the-badge&color=8a2be2&label=PROFILE+VIEWS" />
   </p>
 
