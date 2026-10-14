@@ -215,10 +215,10 @@
     </circle>
   </g>
 
-  <!-- From Kashmir... -->
+  <!-- From Chandigarh... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="470" height="66" rx="18" class="bubble" />
-    <text x="15" y="27">I'm from Kashmir, India – currently in college,</text>
+    <text x="15" y="27">I'm from Chandigarh, India – currently in college,</text>
     <text x="15" y="50">graduating from Chitkara University in 2028.</text>
   </g>
 
