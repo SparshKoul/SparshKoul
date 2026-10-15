@@ -215,10 +215,10 @@
     </circle>
   </g>
 
-  <!-- From Chandigarh... -->
+  <!-- From Kashmir... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="470" height="66" rx="18" class="bubble" />
-    <text x="15" y="27">I'm from Chandigarh, India – currently in college,</text>
+    <text x="15" y="27">I'm from Kashmir, India – currently in college,</text>
     <text x="15" y="50">graduating from Chitkara University in 2028.</text>
   </g>
 
@@ -544,7 +544,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 560)" class="msg-6">
-    <rect width="295" height="42" rx="18" class="bubble" id="msg-6-bubble" />
-    <text x="15" y="27">Have a great Wednesday! <tspan class="emoji">👋🏻</tspan></text>
+    <rect width="280" height="42" rx="18" class="bubble" id="msg-6-bubble" />
+    <text x="15" y="27">Have a great Thursday! <tspan class="emoji">👋🏻</tspan></text>
   </g>
 </svg>
